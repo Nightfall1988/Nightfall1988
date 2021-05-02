@@ -1,9 +1,7 @@
-<div style="font-size:16em;">
 - 👋 Hi, I’m Grigorijs Mamilovs
 - 👀 I’m interested in many topics in IT, but mostly web development and cyber security
 - 🌱 I’m currently learning Laravel web framework
 - 📫 grigorijs.mamilovs@gmail.com
-</div>
 
 
 ✨ PHP ✨JavaScript/TypeScript ✨ jQuery ✨ SQL
