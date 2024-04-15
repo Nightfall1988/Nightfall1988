@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Grigorijs Mamilovs
-- 👀 I’m interested in many topics in IT, but mostly web development and cyber security
+- 👀 I’m interested in many topics in IT, but mostly web development and Cybersecurity
 
 ✨ PHP ✨JavaScript/TypeScript ✨ jQuery ✨ SQL
 ✨ Symfony ✨ Laravel ✨ Vue.js ✨ Linux ✨
